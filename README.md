@@ -4,6 +4,13 @@
 
 This NSF-funded project developed lesson plans and activities based on innovative materials that have been produced in the past few years for introductory statistics courses. These lesson plans and student activity guides were developed to help transform an introductory statistics course into one that is aligned with the [Guidelines for Assessment and Instruction in Statistics Education (GAISE)](http://www.amstat.org/education/gaise/) for teaching introductory statistics courses. The lessons, which build on implications from educational research, involve students in small and large group discussion, computer explorations, and hands-on activities. 
 
+<br />
+
+
+### Download the AIMS Materials
+
+To download all of the materials at this site, click on the `Clone or Download` button and select `Download ZIP`. This will download a ZIP file of the entire site on your local computer. 
+
 
 <br />
 
