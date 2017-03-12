@@ -1,0 +1,7 @@
+# AIMS Material: Comparing Groups
+
+
+### Introduction to the Lessons
+
+
+There are four lessons that lead students to develop the idea of boxplot as a graphical representation of data that allows them to see both center and spread simultaneously and to facilitate comparisons of two or more samples of data. The lessons begin with a comparison of two brands of raisins to show that boxplots help in making comparisons and informal inferences. Then students are guided to examine more carefully the characteristics of a boxplot, moving from a dotplot to a hatplot to boxplot, to show how the dots are hidden by the plot, and what the parts of the box represent. Questions are posed about interpreting and comparing boxplots. The second lesson has students make informal inferences using boxplots to compare distances for Gummy Bears launched using two different heights for launching pads and focuses on comparing groups of data using boxplots. The third lesson develops students’ understanding and use of boxplots by having them interpret boxplots in answering different research questions, and then match boxplots to histograms for the same data sets. The final lesson integrates all the main ideas in data analysis as students use boxplots (and other graphs and statistics) to determine which variables have larger and smaller amounts of variability.
